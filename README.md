@@ -28,6 +28,8 @@ to solve a cube, then please go get one and search the internet for instructions
 Then practice.  It's may take some time, but you'll begin to understand once you can solve a cube 
 in under 10 minutes...then 5 minutes...then 2 minutes...but you'll never get close if you cannot solve the cube at all.
 
+Also, you've got to know how to make new branches and get around in GitHub.
+
 So...your challenge is to:
 1. Grab a cube and practice
 2. Make a video showing yourself solving the cube.  Please introduce yourself and maybe tell us a few interests.  
