@@ -47,8 +47,14 @@ Private projects are more geared towards generating IP and business revenue.  Th
 ideas that are on the table for those who may be interested.  These repositories are more for the purpose of building
 long term, sustainable business. 
 
+To be very specific: If I don't find a branch in here with your username and a link to your cube solving video, 
+you will not be considered for projects.  I know you can learn how to solve a cube.  I know you can figure out 
+how to make a video and post a link.  I believe in you.
+
 Anyway, I have a lot of work to do.  Branch this repo and show me that cube video!  I will make an example branch 
 with my username to demonstrate.
+
+Thank you for your time.
 
 ~b4t54ndw1ch
 
