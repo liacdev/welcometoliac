@@ -45,7 +45,7 @@ many different courses and methodologies.  The overall intention is to create an
 
 Private projects are more geared towards generating IP and business revenue.  These might be specific game concepts or other 
 ideas that are on the table for those who may be interested.  These repositories are more for the purpose of building
-long term, sustainable business. 
+long term, sustainable business.  If something sells, it might make some money, etc...
 
 To be very specific: If I don't find a branch in here with your username and a link to your cube solving video, 
 you will not be considered for projects.  I know you can learn how to solve a cube.  I know you can figure out 
